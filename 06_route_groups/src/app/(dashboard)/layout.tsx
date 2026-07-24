@@ -2,10 +2,8 @@
 const dashboardLayout = ({children}:{children: React.ReactNode}) => {
   return (
     <>
-        <p>
             dashboardLayout
             {children}
-        </p>
     </>
   )
 }
